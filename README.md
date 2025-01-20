@@ -3,11 +3,8 @@
 ## Stay tuned for updates (and dataset release)!
 
 
-![screenshot](arch_1.PNG)
-(a) Probabilistic decision fusion (DF-FCN)
-
-![screenshot](arch_2.PNG)
-(b) Multiresolution fusion through hierarchical probabilistic graphical model (PGF-FCN)
+![screenshot](methods.png)
+(a) Proposed fusion methods for LULC mapping from mobility demand (OD data) and remote sensing (satellite imagery)
 
 This repository contains the dataset related to the paper:  
 
